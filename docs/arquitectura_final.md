@@ -1,4 +1,4 @@
-**SECCION 1**
+**SECCION 1: Estrategia y Alcance**
 
 **Objetivo General**
 
@@ -31,7 +31,7 @@ Desarrollar un Sistema Gestor de Inventarios que permita controlar existencias, 
 
 -----------------------
 
-**SECCION 2**
+**SECCION 2: Vista Estructural (C4)**
 
 ```mermaid
 flowchart TD
@@ -61,7 +61,7 @@ flowchart TD
   N-->O[ReportesDB]
   ```
 --------------------
-**SECCION 3**
+**SECCION 3: Vista de Fronteras y Contratos**
 
 **Flujo Crítico 1: Registrar Entrada de Inventario**
 
@@ -84,7 +84,7 @@ En ningún caso se mostrarán detalles técnicos, excepciones o stacktraces al u
 
 ----------------------------------------------------------
 
-**SECCION 4**
+**SECCION 4: Vista de Persistencia (DER)**
 
 **Entidades**
 Categorias
@@ -240,7 +240,7 @@ erDiagram
 
 ------------------------------
 
-**SECCION 5**
+**SECCION 5: Vista de Despliegue e Infraestructura**
 
 **Tipo de Despliegue Seleccionado**
 
